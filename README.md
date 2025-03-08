@@ -4,9 +4,8 @@ This repository contains a collection of **Roblox-related assets** and **Lua cod
 
 - Fonts
 - Images
-- Models
-- Skyboxes
-- Shoot tracers
+- Lua
+- Tracers
 - Hitsounds
 
 > [!IMPORTANT]  
