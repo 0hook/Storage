@@ -1,0 +1,11 @@
+{
+    "name": "Minecraftia",
+    "faces": [
+        {
+            "style": "normal",
+            "assetId": "rbxasset://velocity_assets/Minecraftia.ttf",
+            "name": "Regular",
+            "weight": 400
+        }
+    ]
+}

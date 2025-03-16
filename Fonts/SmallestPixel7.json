@@ -1,0 +1,11 @@
+{
+    "name": "SmallestPixel7",
+    "faces": [
+        {
+            "style": "normal",
+            "assetId": "rbxasset://velocity_assets/SmallestPixel7.ttf",
+            "name": "Regular",
+            "weight": 400
+        }
+    ]
+}

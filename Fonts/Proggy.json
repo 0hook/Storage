@@ -1,0 +1,11 @@
+{
+    "name": "Proggy",
+    "faces": [
+        {
+            "style": "normal",
+            "assetId": "rbxasset://velocity_assets/Proggy.ttf",
+            "name": "Regular",
+            "weight": 400
+        }
+    ]
+}

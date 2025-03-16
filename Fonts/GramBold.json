@@ -1,0 +1,11 @@
+{
+    "name": "GramBold",
+    "faces": [
+        {
+            "style": "normal",
+            "assetId": "rbxasset://velocity_assets/GramBold.ttf",
+            "name": "Regular",
+            "weight": 400
+        }
+    ]
+}

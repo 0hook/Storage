@@ -1,0 +1,11 @@
+{
+    "name": "TahomaClean",
+    "faces": [
+        {
+            "style": "normal",
+            "assetId": "rbxasset://velocity_assets/TahomaClean.ttf",
+            "name": "Regular",
+            "weight": 400
+        }
+    ]
+}

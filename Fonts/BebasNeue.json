@@ -1,0 +1,11 @@
+{
+    "name": "BebasNeue",
+    "faces": [
+        {
+            "style": "normal",
+            "assetId": "rbxasset://velocity_assets/BebasNeue.ttf",
+            "name": "Regular",
+            "weight": 400
+        }
+    ]
+}

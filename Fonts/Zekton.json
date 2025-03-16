@@ -1,0 +1,11 @@
+{
+    "name": "Zekton",
+    "faces": [
+        {
+            "style": "normal",
+            "assetId": "rbxasset://velocity_assets/Zekton.ttf",
+            "name": "Regular",
+            "weight": 400
+        }
+    ]
+}
