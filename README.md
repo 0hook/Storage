@@ -19,7 +19,7 @@ This repository contains assets for creating Roblox Lua projects:
 ├── Tracers/
 ├── HitSounds/
 │   ├── Effects/
-│   ├── GameSounds/
+│   ├── Games/
 │   └── Memes/
 ├── Fonts/
 │   ├── Tahoma/
